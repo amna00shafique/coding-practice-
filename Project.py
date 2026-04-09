@@ -1,4 +1,4 @@
-tasks = []
+tasks = ["print page","update page","edit page"]
 def show_tasks():
     if tasks:
         print("Your tasks:")
